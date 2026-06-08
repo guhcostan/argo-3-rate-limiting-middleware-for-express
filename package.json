@@ -1,0 +1,7 @@
+{
+  "name": "rate-limiting-middleware-for-express",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  }
+}
